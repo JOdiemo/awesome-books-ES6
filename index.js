@@ -1,5 +1,4 @@
-import { isStorageAvailable } from './modules/app.js';
-import { Bookshelf } from './modules/app.js';
+import Bookshelf, { isStorageAvailable } from './modules/app.js';
 import { DateTime } from './modules/luxon.js';
 
 const add = document.getElementById('add-book-container');
