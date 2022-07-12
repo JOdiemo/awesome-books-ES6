@@ -2,8 +2,7 @@
   "name": "awesome-books-es6",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
-  "type": "module",
-  "main": "index.js",
+  "main": "index.mjs",
   "dependencies": {
     "abab": "^2.0.6",
     "abbrev": "^1.1.1",
