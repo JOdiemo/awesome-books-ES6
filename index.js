@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Bookshelf, { isStorageAvailable } from './modules/app.js';
 import { DateTime } from './modules/luxon.js';
 
